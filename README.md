@@ -13,6 +13,7 @@
 
 # Tools used -
   Python is used as the main language.
+  Implemented with help of algorithms (Recursion and backtracking).
 
 # How to Use - 
-  Give an unsolved sudoku board as input and you'll get the solved board immediately.
+  Give an unsolved sudoku board as input and you'll get the solved board immediately in the command prompt.
