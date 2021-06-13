@@ -1,4 +1,6 @@
-# Sudoku-game -
+# Sudoku-solver -
+/* Skip if you know about sudiku rules */
+
   The Sudoku game involves a grid of 81 squares. The grid
   is divided into nine blocks, each containing nine squares.
   RULES: Each of the nine blocks has to contain all the numbers 
