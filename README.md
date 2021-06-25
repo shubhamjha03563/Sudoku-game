@@ -12,7 +12,7 @@
   Every puzzle has just one correct solution.
 
 # Tools used -
-  Python is used as the main language.
+  Language used - Python 3.
   Implemented with help of algorithms (Recursion and backtracking).
 
 # How to Use - 
